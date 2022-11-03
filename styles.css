@@ -1,0 +1,58 @@
+body {
+background-color: gray;
+}
+#links {
+    text-align: right;
+}
+
+
+a {
+    padding: 10px;
+}
+
+.searchbar{
+text-align: center;
+border-radius: 20px;
+border-color: black;
+width: 500px;
+height: 35px;
+}
+
+.searchbutton{
+padding: 5px;
+width: 120px;
+}
+
+p {
+text-align: center;
+}
+
+.advschbutton {
+background-color: #6495ED;
+padding: 8px;
+width: 160px;
+border-color: #6495ED;
+border-radius: 5px;
+border: 10px;
+color: white;
+margin-top: 30px;
+
+}
+
+.advsch {
+width: 400px;
+height: 25px;
+margin-left: 10px;
+}
+
+
+#test {
+text-align: right;
+}
+
+.logo{
+font-size: 80px;
+margin-top: 250px;
+margin-bottom: 0px;
+text-align: center;
+}
